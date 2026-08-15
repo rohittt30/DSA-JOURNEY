@@ -7,6 +7,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0001-two-sum) |
+| [0189-rotate-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/rohittt30/DSA-JOURNEY/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
@@ -17,6 +18,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -30,6 +32,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
