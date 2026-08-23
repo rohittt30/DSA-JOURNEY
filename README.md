@@ -8,6 +8,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 | ------- |
 | [0001-two-sum](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
@@ -41,10 +42,12 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rohittt30/DSA-JOURNEY/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
