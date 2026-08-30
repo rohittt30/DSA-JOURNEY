@@ -38,6 +38,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 | [0009-palindrome-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0263-ugly-number) |
 ## Matrix
 |  |
 | ------- |
