@@ -51,4 +51,12 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 | ------- |
 | [0054-spiral-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
