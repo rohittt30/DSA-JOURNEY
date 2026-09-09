@@ -10,6 +10,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 | [0048-rotate-image](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0867-transpose-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rohittt30/DSA-JOURNEY/tree/master/1572-matrix-diagonal-sum) |
@@ -17,6 +18,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -26,10 +28,12 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -39,6 +43,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 | [0048-rotate-image](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -59,4 +64,5 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
