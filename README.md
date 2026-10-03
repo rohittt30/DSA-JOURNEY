@@ -7,6 +7,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
