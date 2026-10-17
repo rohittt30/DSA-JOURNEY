@@ -31,6 +31,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -45,6 +46,7 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 | [0007-reverse-integer](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0268-missing-number) |
@@ -73,4 +75,8 @@ THIS IS THE REPOSITORY FOR THE GRIND OF THE DSA IN MY FOUR YEARS
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rohittt30/DSA-JOURNEY/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
